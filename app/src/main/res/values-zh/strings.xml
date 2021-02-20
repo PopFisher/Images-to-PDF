@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">PDF Converter</string>
+    <string name="app_name">文档转换王</string>
     <string name="title">PDF操作</string>
 
     <string name="file_name_text">文件名称</string>
